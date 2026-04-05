@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/banner.png" alt="AI Jobs Market Analysis" width="100%"/>
+</div>
+
 # 💼 AI Jobs Market Analysis & Salary Prediction
 ### Data-Driven Insights into the AI Revolution in the Job Market
 
