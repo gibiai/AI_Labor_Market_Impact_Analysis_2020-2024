@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo1.png" alt="AI Jobs Market Analysis" width="60%"/>
+  <img src="assets/logo.png" alt="AI Jobs Market Analysis" width="60%"/>
 </div>
 
 # 💼 AI Jobs Market Analysis & Salary Prediction
